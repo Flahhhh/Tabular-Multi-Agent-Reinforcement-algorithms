@@ -1,0 +1,15 @@
+{
+    "name": "GridV1",
+    "num_agents": 2,
+    "state_space": 5,
+    "action_space": 2,
+    "init_positions": [
+        1,
+        3
+    ],
+    "target_pos": 2,
+    "target_reward_1": 5.0,
+    "catch_reward_1": -10.0,
+    "catch_reward_2": 5.0,
+    "max_steps": 8
+}

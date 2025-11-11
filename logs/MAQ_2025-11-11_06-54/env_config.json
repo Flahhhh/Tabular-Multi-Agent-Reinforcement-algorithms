@@ -1,0 +1,6 @@
+{
+    "name": "Matrix",
+    "num_agents": 2,
+    "state_space": 1,
+    "action_space": 2
+}

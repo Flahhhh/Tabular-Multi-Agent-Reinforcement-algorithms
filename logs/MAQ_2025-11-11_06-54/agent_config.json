@@ -1,0 +1,14 @@
+{
+    "name": "MAQ",
+    "env_name": "Matrix",
+    "log_dir": null,
+    "model_dir": null,
+    "lr": 0.05,
+    "discount": 0.99,
+    "start_eps": 0.9,
+    "min_eps": 0.05,
+    "num_epoch": 1000,
+    "num_agents": 2,
+    "num_states": 1,
+    "num_actions": 2
+}
